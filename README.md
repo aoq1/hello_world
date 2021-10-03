@@ -10,6 +10,8 @@ Trevor Muñoz and and Katie Rawson
 
 [NYPL What's on the Menu?](http://menus.nypl.org/)
 
+OpenRefine
+
 "Which variants in the names of dishes revealed new information we should account for in our own data, and which variants were simply accidents of transcription or typesetting?" 
 
 Dataset Sources:
