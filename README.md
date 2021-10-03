@@ -14,3 +14,5 @@ Trevor Muñoz and and Katie Rawson
 
 Dataset Sources:
 - [Art + All Museums Transparency Salary](https://docs.google.com/spreadsheets/u/1/d/14_cn3afoas7NhKvHWaFKqQGkaZS5rvL6DFxzGqXQa6o/htmlview?usp=sharing#)
+- [NJ Shipwrecks](https://njmaritimemuseum.org/shipwreck-database/)
+- [Museum of Modern Art artworks](https://github.com/MuseumofModernArt/collection/blob/master/Artworks.csv)
